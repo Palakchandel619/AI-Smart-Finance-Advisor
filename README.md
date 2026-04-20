@@ -184,5 +184,3 @@ BCA AIML Student
 Feel free to fork this repository and improve the project!
 
 ---
-* Create a **requirements.txt file**
-* Or make your README more **attractive with images & UI screenshots**

@@ -151,14 +151,7 @@ The system:
 1. Analyzes spending behavior
 2. Suggests improvements
 3. Recommends investments
-4. Predicts future expenses
-
----
-
-## ⚠️ Disclaimer
-
-This project is for **educational purposes only**.
-Investment suggestions are not financial advice. Always consult a professional before making financial decisions.
+4. Predicts future expences
 
 ---
 

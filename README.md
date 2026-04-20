@@ -1,4 +1,4 @@
-Here’s a clean, professional **README.md** you can directly upload to GitHub for your project:
+
 
 ---
 
@@ -184,9 +184,5 @@ BCA AIML Student
 Feel free to fork this repository and improve the project!
 
 ---
-
-If you want, I can also:
-
-* Add **GitHub badges (stars, forks, etc.)**
 * Create a **requirements.txt file**
 * Or make your README more **attractive with images & UI screenshots**
